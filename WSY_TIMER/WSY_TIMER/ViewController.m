@@ -18,7 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 //https://github.com/jaydee3/JDFlipNumberView
-    CATextLayer
+//    https://github.com/mineschan/MZTimerLabel     CATextLayer
+
 }
 
 - (void)didReceiveMemoryWarning {
