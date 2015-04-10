@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6643C355-F59D-4B5C-AFF6-93B2224BAC43</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WSY_TIMER</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3C2B82C442ACD9AE59D582FCFA6E2FBC9808DB1</key>
+		<string>github.com:devSC/WSY_TIMER.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WSY_TIMER/WSY_TIMER.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3C2B82C442ACD9AE59D582FCFA6E2FBC9808DB1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:devSC/WSY_TIMER.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3C2B82C442ACD9AE59D582FCFA6E2FBC9808DB1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3C2B82C442ACD9AE59D582FCFA6E2FBC9808DB1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WSY_TIMER</string>
+		</dict>
+	</array>
+</dict>
+</plist>

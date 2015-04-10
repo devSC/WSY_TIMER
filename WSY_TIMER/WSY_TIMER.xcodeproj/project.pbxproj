@@ -14,6 +14,8 @@
 		7592B7151AD683C2009BD79F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7592B7141AD683C2009BD79F /* Images.xcassets */; };
 		7592B7181AD683C2009BD79F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7592B7161AD683C2009BD79F /* LaunchScreen.xib */; };
 		7592B7241AD683C2009BD79F /* WSY_TIMERTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7592B7231AD683C2009BD79F /* WSY_TIMERTests.m */; };
+		75F53AE11AD7977300881F89 /* WSFlashBuyTimerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 75F53AE01AD7977300881F89 /* WSFlashBuyTimerView.m */; };
+		75F53AE31AD7978100881F89 /* WSFlashBuyTimerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 75F53AE21AD7978100881F89 /* WSFlashBuyTimerView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,9 @@
 		7592B71D1AD683C2009BD79F /* WSY_TIMERTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WSY_TIMERTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7592B7221AD683C2009BD79F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7592B7231AD683C2009BD79F /* WSY_TIMERTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WSY_TIMERTests.m; sourceTree = "<group>"; };
+		75F53ADF1AD7977300881F89 /* WSFlashBuyTimerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSFlashBuyTimerView.h; sourceTree = "<group>"; };
+		75F53AE01AD7977300881F89 /* WSFlashBuyTimerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSFlashBuyTimerView.m; sourceTree = "<group>"; };
+		75F53AE21AD7978100881F89 /* WSFlashBuyTimerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WSFlashBuyTimerView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +90,9 @@
 				7592B70C1AD683C2009BD79F /* AppDelegate.m */,
 				7592B70E1AD683C2009BD79F /* ViewController.h */,
 				7592B70F1AD683C2009BD79F /* ViewController.m */,
+				75F53ADF1AD7977300881F89 /* WSFlashBuyTimerView.h */,
+				75F53AE01AD7977300881F89 /* WSFlashBuyTimerView.m */,
+				75F53AE21AD7978100881F89 /* WSFlashBuyTimerView.xib */,
 				7592B7111AD683C2009BD79F /* Main.storyboard */,
 				7592B7141AD683C2009BD79F /* Images.xcassets */,
 				7592B7161AD683C2009BD79F /* LaunchScreen.xib */,
@@ -199,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75F53AE31AD7978100881F89 /* WSFlashBuyTimerView.xib in Resources */,
 				7592B7131AD683C2009BD79F /* Main.storyboard in Resources */,
 				7592B7181AD683C2009BD79F /* LaunchScreen.xib in Resources */,
 				7592B7151AD683C2009BD79F /* Images.xcassets in Resources */,
@@ -219,6 +228,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75F53AE11AD7977300881F89 /* WSFlashBuyTimerView.m in Sources */,
 				7592B7101AD683C2009BD79F /* ViewController.m in Sources */,
 				7592B70D1AD683C2009BD79F /* AppDelegate.m in Sources */,
 				7592B70A1AD683C2009BD79F /* main.m in Sources */,
@@ -416,6 +426,7 @@
 				7592B7291AD683C2009BD79F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7592B72A1AD683C2009BD79F /* Build configuration list for PBXNativeTarget "WSY_TIMERTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +435,7 @@
 				7592B72C1AD683C2009BD79F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
